@@ -48,7 +48,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![GitHub Logo](Output.png)
+![GitHub Logo](IMage.png)
 
 ## RESULT:
 A simple webserver is developed.
