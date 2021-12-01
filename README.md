@@ -50,5 +50,6 @@ httpd.serve_forever()
 ## OUTPUT:
 ![GitHub Logo](IMage.png)
 
+
 ## RESULT:
 A simple webserver is developed.
